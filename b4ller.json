@@ -1,0 +1,158 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"baller",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/baller.jpg",
+      "download":"https://ia801602.us.archive.org/6/items/ballersmod/baller.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"baller2",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/baller2.jpg",
+      "download":"https://ia801602.us.archive.org/6/items/ballersmod/Baller2.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"bacon",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/bacon.jpg",
+      "download":"https://ia801602.us.archive.org/6/items/ballersmod/bacon.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"chainsaw",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/chainsaw.jpg",
+      "download":"https://ia801602.us.archive.org/6/items/ballersmod/Chainsaw.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"crusher",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/crusher.jpg",
+      "download":"https://ia601602.us.archive.org/6/items/ballersmod/crusher.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":6,
+      "name":"crusherhammer",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/crusherhammer.jpg",
+      "download":"https://ia801602.us.archive.org/6/items/ballersmod/crusherhammer.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":7,
+      "name":"deadpul",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/deadpool.jpg",
+      "download":"https://ia801602.us.archive.org/6/items/ballersmod/Deadpool.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":8,
+      "name":"noob",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/noob.jpg",
+      "download":"https://ia601602.us.archive.org/6/items/ballersmod/noob.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":9,
+      "name":"slicer",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/slicer.jpg",
+      "download":"https://ia801602.us.archive.org/6/items/ballersmod/slicer.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":10,
+      "name":"squidsoldier",
+      "category":"Mods",
+      "image":"https://archive.org/download/ballersmod/squidsoldier.jpg",
+      "download":"https://ia601602.us.archive.org/6/items/ballersmod/squidsoldier.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":11,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":12,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":13,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":14,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":15,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    }
+	 ]
+}

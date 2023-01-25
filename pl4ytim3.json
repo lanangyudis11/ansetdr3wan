@@ -1,0 +1,158 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"BEASTBENDY",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/BEASTBENDY.jpg",
+      "download":"https://ia601608.us.archive.org/29/items/playtimemodmel/BEASTBENDY.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":2,
+      "name":"BendyOr1",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/BENDYORI.jpg",
+      "download":"https://ia601608.us.archive.org/29/items/playtimemodmel/BENDYORI.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":3,
+      "name":"Bloss0m",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/BLOSSOM.jpg",
+      "download":"https://ia801608.us.archive.org/29/items/playtimemodmel/BLOSSOM.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":4,
+      "name":"Choochoomelmods",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/ChooChooCharlesMelmod.jpg",
+      "download":"https://ia801608.us.archive.org/29/items/playtimemodmel/ChooChooCharlesMelmod.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":5,
+      "name":"choochoomelsave",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/ChooChooCharlesMelsave.jpg",
+      "download":"https://ia601608.us.archive.org/29/items/playtimemodmel/ChooChooCharlesMelsave.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":6,
+      "name":"huggy",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/HUGGy%20wuggY%E2%80%8B.jpg",
+      "download":"https://ia801608.us.archive.org/29/items/playtimemodmel/HUGGy%20wuggY%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":7,
+      "name":"inkdemons",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/Ink%20Demon.jpg",
+      "download":"https://ia801608.us.archive.org/29/items/playtimemodmel/Ink%20Demon.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":8,
+      "name":"boxy2",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/boxy%20boo%2020%E2%80%8B.jpg",
+      "download":"https://ia801608.us.archive.org/29/items/playtimemodmel/boxy%20boo%2020%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":9,
+      "name":"boxy",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/boxy%20boo.jpg",
+      "download":"https://ia801608.us.archive.org/29/items/playtimemodmel/boxy%20boo%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":10,
+      "name":"burgerboo",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/burger%20boo%E2%80%8B.jpg",
+      "download":"https://ia601608.us.archive.org/29/items/playtimemodmel/burger%20boo%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":11,
+      "name":"charless",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/charles.jpg",
+      "download":"https://ia601608.us.archive.org/29/items/playtimemodmel/charles.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":12,
+      "name":"chochoo",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/choochoo.jpg",
+      "download":"https://ia601608.us.archive.org/29/items/playtimemodmel/CHOOCHOO.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":13,
+      "name":"willy",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/killy%20willy%E2%80%8B.jpg",
+      "download":"https://ia601608.us.archive.org/29/items/playtimemodmel/killy%20willy%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":14,
+      "name":"legmom",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/long%20legs%20mom%E2%80%8B.jpg",
+      "download":"https://ia801608.us.archive.org/29/items/playtimemodmel/long%20legs%20mom%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":15,
+      "name":"metallegmom",
+      "category":"Mods",
+      "image":"https://archive.org/download/playtimemodmel/metal%20mom%20long%20legs%E2%80%8B.jpg",
+      "download":"https://ia601608.us.archive.org/29/items/playtimemodmel/metal%20mom%20long%20legs%E2%80%8B.zip",
+      "description":"file:///android_asset/ueue.html"
+    }
+	 ]
+}

@@ -1,0 +1,158 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Addon: Rainbow Friends",
+      "category":"Mods",
+      "image":"https://mcpeland.io/uploads/posts/2022-08/gazo_rainbowfriends.png",
+      "download":"https://ia801404.us.archive.org/13/items/gazo_rainbowfriends/gazo_rainbowfriends.mcaddon",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Rainbow Friends Addon BP",
+      "category":"Mods",
+      "image":"https://mcpe-monster.com/wp-content/uploads/2022/08/rainbow-friends-minecraft.jpeg",
+      "download":"https://ia601500.us.archive.org/31/items/rainbow_BP/rainbow_BP.mcaddon",
+      "description":"file:///android_asset/ueue.html"
+    },
+    {
+    "id":3,
+    "name":"Rainbow Friends Addon RP",
+    "category":"Mods",
+    "image":"https://mcpe-monster.com/wp-content/uploads/2022/08/rainbow-friends-addon-1.png",
+    "download":"https://ia801500.us.archive.org/34/items/rainbow_RP/rainbow_RP.mcaddon",
+    "description":"<div>\n<p style=\"text-align: justify;\">Rainbow Friends Addon</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\">by MonsterMCpe</div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">Rainbow Friends is now available to all fans in the game of Minecraft. You can create your own games with Rainbow Friends characters in mod for mcpe and play with them.<img class=\"https://mcpe-monster.com/wp-content/uploads/2022/08/rainbow-friends-minecraft.jpeg/></figure>\n</div><div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">In Rainbow Friends Minecraft Mod you can create colored monsters: green, red, blue, orange and they will help you attack NPCs.<img class=\"https://mcpe-monster.com/wp-content/uploads/2022/08/rainbow-friends-addon-1.png/></figure>\n</div>"
+  },
+  {
+    "id":4,
+    "name":"Poppy Play Time Resource 2",
+    "category":"Mods",
+    "image":"https://funtime-lefty-website4.webnode.com/_files/200000332-7be447be48/ftl_huggy_wuggy3d.png?ph=513511e9fc",
+    "download":"https://ia601501.us.archive.org/33/items/poppy-play-time-addon-rp-2/Poppy%20PlayTime%20addon%20RP%20%282%29.mcpack",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Poppy Play Time Behaviour 2",
+    "category":"Mods",
+    "image":"https://funtime-lefty-website4.webnode.com/_files/200000320-64f4164f42/ftl_vanillia_huggy-9.png?ph=513511e9fc",
+    "download":"https://ia601506.us.archive.org/22/items/poppy-play-time-addon-bp-2/Poppy%20PlayTime%20addon%20BP%20%282%29.mcpack",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Poppy Play Time Map 1",
+    "category":"Other Mods",
+    "image":"https://i.ytimg.com/vi/sUjQE0_kD3M/maxresdefault.jpg",
+    "download":"https://ia601400.us.archive.org/34/items/poppymap/poppymap.zip",
+    "description":"file:///android_asset/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Poppy Play Time Map 2",
+    "category":"Other Mods",
+    "image":"https://static.planetminecraft.com/files/image/minecraft/project/2021/845/15035008_l.jpg",
+    "download":"https://ia601409.us.archive.org/23/items/poppy-play-time-map-by/Poppy%20PlayTime%20Map%20by%20.rar",
+    "description":"file:///android_asset/ueue.html"
+  },
+	{
+      "id":8,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":9,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":10,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":11,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":12,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":13,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":14,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    },
+	{
+      "id":15,
+      "name":"",
+      "category":"Mods",
+      "image":"",
+      "download":"",
+      "description":"file:///android_asset/ueue.html"
+    }
+	 ]
+}
