@@ -1,158 +1,301 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner":"qwert12345",
-      "backup_ads_intertitial":"qwert12345",
-      "backup_ads_natives":"qwert12345",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 2,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  
-  ],
-  "Mods":
-  [
-    {
-      "id":1,
-      "name":"Ben",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Ben.jpg",
-      "download":"https://ia804702.us.archive.org/16/items/glitchmod/ben.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":2,
-      "name":"Glitch",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/glitch.jpg",
-      "download":"https://ia904702.us.archive.org/16/items/glitchmod/glitch.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":3,
-      "name":"Crimson",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Crimson.jpg",
-      "download":"https://ia804702.us.archive.org/16/items/glitchmod/Crimson.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":4,
-      "name":"Dalmatian",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Dalmatian.jpg",
-      "download":"https://ia904702.us.archive.org/16/items/glitchmod/Dalmatian.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":5,
-      "name":"Dwarf",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Dwarf.jpg",
-      "download":"https://ia904702.us.archive.org/16/items/glitchmod/Dwarf.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":6,
-      "name":"Experiment",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Experiment.jpg",
-      "download":"https://ia904702.us.archive.org/16/items/glitchmod/Experiment.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":7,
-      "name":"Jeff",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Jeff.jpg",
-      "download":"https://ia904702.us.archive.org/16/items/glitchmod/Jeff.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":8,
-      "name":"Miner",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Miner.jpg",
-      "download":"https://ia904702.us.archive.org/16/items/glitchmod/Miner.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":9,
-      "name":"Saybot",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Saybot.jpg",
-      "download":"https://ia904702.us.archive.org/16/items/glitchmod/Saybot.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":10,
-      "name":"Springtrap",
-      "category":"Mods",
-      "image":"https://archive.org/download/glitchmod/Springtrap.jpg",
-      "download":"https://ia904702.us.archive.org/16/items/glitchmod/springtrap.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":11,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":12,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":13,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":14,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    },
-	{
-      "id":15,
-      "name":"",
-      "category":"Mods",
-      "image":"",
-      "download":"",
-      "description":"file:///android_asset/ueue.html"
-    }
-	 ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"backup_ads_banner": "qwert12345",
+			"backup_ads_intertitial": "qwert12345",
+			"backup_ads_natives": "qwert12345",
+			"open_ads_admob": "ca-app-pub-3940256099942544/3419835294",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "Ben",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Ben.jpg",
+			"download": "https://ia804702.us.archive.org/16/items/glitchmod/ben.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 2,
+			"name": "Glitch",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/glitch.jpg",
+			"download": "https://ia904702.us.archive.org/16/items/glitchmod/glitch.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 3,
+			"name": "Crimson",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Crimson.jpg",
+			"download": "https://ia804702.us.archive.org/16/items/glitchmod/Crimson.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 4,
+			"name": "Dalmatian",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Dalmatian.jpg",
+			"download": "https://ia904702.us.archive.org/16/items/glitchmod/Dalmatian.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 5,
+			"name": "Dwarf",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Dwarf.jpg",
+			"download": "https://ia904702.us.archive.org/16/items/glitchmod/Dwarf.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 6,
+			"name": "Experiment",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Experiment.jpg",
+			"download": "https://ia904702.us.archive.org/16/items/glitchmod/Experiment.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 7,
+			"name": "Jeff",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Jeff.jpg",
+			"download": "https://ia904702.us.archive.org/16/items/glitchmod/Jeff.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 8,
+			"name": "Miner",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Miner.jpg",
+			"download": "https://ia904702.us.archive.org/16/items/glitchmod/Miner.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 9,
+			"name": "Saybot",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Saybot.jpg",
+			"download": "https://ia904702.us.archive.org/16/items/glitchmod/Saybot.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 10,
+			"name": "Springtrap",
+			"category": "Mods",
+			"image": "https://archive.org/download/glitchmod/Springtrap.jpg",
+			"download": "https://ia904702.us.archive.org/16/items/glitchmod/springtrap.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 11,
+			"name": "KALOS",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/KALOS.jpg",
+			"download": "https://ia804702.us.archive.org/35/items/cyborgmods/KALOS.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 12,
+			"name": "MAGNUM342",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/MAGNUM342.jpg",
+			"download": "https://ia804702.us.archive.org/35/items/cyborgmods/magnum%20342%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 13,
+			"name": "PB468",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/PB468.jpg",
+			"download": "https://ia904702.us.archive.org/35/items/cyborgmods/pb468%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 14,
+			"name": "R800",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/R800.jpg",
+			"download": "https://ia904702.us.archive.org/35/items/cyborgmods/R800%E2%80%8B%20%281%29.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 15,
+			"name": "ROBOSTERZOKA",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/ROBOSTERZOKA.jpg",
+			"download": "https://ia804702.us.archive.org/35/items/cyborgmods/robostrekoza%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 16,
+			"name": "ROBOT",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/ROBOT.jpg",
+			"download": "https://ia804702.us.archive.org/35/items/cyborgmods/robot.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 17,
+			"name": "Robot Druid",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/Robot%20Druid.jpg",
+			"download": "https://ia804702.us.archive.org/35/items/cyborgmods/robot%20druid111111111%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 18,
+			"name": "spider robot",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/spider%20robot.jpg",
+			"download": "https://ia804702.us.archive.org/35/items/cyborgmods/spider%20robot%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 19,
+			"name": "sultan f34",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/sultan%20f34.jpg",
+			"download": "https://ia904702.us.archive.org/35/items/cyborgmods/sultan%20f34%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 20,
+			"name": "tnk01",
+			"category": "Mods",
+			"image": "https://archive.org/download/cyborgimg/tnk01.jpg",
+			"download": "https://ia904702.us.archive.org/35/items/cyborgmods/TNK%2001%20by%20Dilleron%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 21,
+			"name": "Robot Alpha",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Alpha/Robot%20Alpha.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Alpha/Robot%20Alpha.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 22,
+			"name": "Robot Atlas",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Atlas/Robot%20Atlas.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Atlas/Robot%20Atlas.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 23,
+			"name": "Robot By Kaktus",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20By%20Kaktus/Robot%20By%20Kaktus.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20By%20Kaktus/Robot%20By%20Kaktus.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 24,
+			"name": "Robot Druid",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Druid/Robot%20Druid.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Druid/Robot%20Druid.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 25,
+			"name": "Robot Kcelebox",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Kcelebox/Robot%20Kcelebox.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Kcelebox/Robot%20Kcelebox.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 26,
+			"name": "Robot Maud",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Maud/Robot%20Maud.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Maud/Robot%20Maud.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 27,
+			"name": "Robot Mod",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod/Robot%20Mod.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod/Robot%20Mod.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 28,
+			"name": "Robot Mod - JB6",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%20-%20JB6/Robot%20Mod%20-%20JB6.jpg?",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%20-%20JB6/Robot%20Mod%20-%20JB6.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 29,
+			"name": "Robot Mod 2",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%202/Robot%20Mod%202.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Mod%202/Robot%20Mod%202.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 30,
+			"name": "Robot Off",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Off/Robot%20Off.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Off/Robot%20Off.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 31,
+			"name": "Robot People Playground",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20People%20Playground/Robot%20People%20Playground.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20People%20Playground/Robot%20People%20Playground.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 32,
+			"name": "Robot Version 1",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Version%201/Robot%20Version%201.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/Robot%20Version%201/Robot%20Version%201.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 33,
+			"name": "The robot of the future",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/BENDOIL/Almesha/Robot/The%20robot%20of%20the%20future/The%20robot%20of%20the%20future.jpg",
+			"download": "https://aweu.net/2023/BENDOIL/Almesha/Robot/The%20robot%20of%20the%20future/The%20robot%20of%20the%20future.zip",
+			"description": "file:///android_asset/ueue.html"
+		}
+	]
 }
